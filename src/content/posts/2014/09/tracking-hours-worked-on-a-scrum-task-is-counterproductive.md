@@ -1,6 +1,6 @@
 ---
 title: "Tracking hours worked on a scrum task is counterproductive"
-date: "2014-09-06"
+date: 2014-09-06
 categories: 
   - "agile"
 tags: 

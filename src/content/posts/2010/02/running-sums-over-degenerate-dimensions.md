@@ -1,6 +1,6 @@
 ---
 title: "Running Sums over Degenerate Dimensions"
-date: "2010-02-06"
+date: 2010-02-06
 categories: 
   - "business-intelligence"
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Initial Mental Health Requirements"
-date: "2013-04-10"
+date: 2013-04-10
 categories: 
   - "sample-solution"
 tags: 

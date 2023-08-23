@@ -1,6 +1,6 @@
 ---
 title: "Sprint Review Time"
-date: "2004-06-25"
+date: 2004-06-25
 categories: 
   - "agile"
 tags: 

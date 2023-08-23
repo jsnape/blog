@@ -1,6 +1,6 @@
 ---
 title: "A behaviour driven testing framework for batch processing systems"
-date: "2013-03-29"
+date: 2013-03-29
 categories: 
   - "software-testing"
 tags: 

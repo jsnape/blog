@@ -1,6 +1,6 @@
 ---
 title: "Mental Health Dimensional Model"
-date: "2013-05-18"
+date: 2013-05-18
 categories: 
   - "sample-solution"
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Agile Business Intelligence Architecture"
-date: "2013-03-06"
+date: 2013-03-06
 ---
 
 I used to regularly write a blog over at [http://jamessnape.me.uk](http://jamessnape.me.uk) based on my experiences with a number of topics at Microsoft. Since moving to BNP Paribas I haven’t had much to say publically beyond posting a few photos and I’d like to change that.

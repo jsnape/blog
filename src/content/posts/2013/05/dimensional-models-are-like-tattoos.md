@@ -1,6 +1,6 @@
 ---
 title: "Dimensional Models are like Tattoos"
-date: "2013-05-26"
+date: 2013-05-26
 categories: 
   - "business-intelligence"
 tags: 

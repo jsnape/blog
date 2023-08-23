@@ -1,6 +1,6 @@
 ---
 title: "What is the problem with Marketing People?"
-date: "2004-07-20"
+date: 2004-07-20
 categories: 
   - "business"
 tags: 

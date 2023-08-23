@@ -1,6 +1,6 @@
 ---
 title: "42 Tasks for a Scrum Master's Job"
-date: "2013-03-23"
+date: 2013-03-23
 categories: 
   - "agile"
 tags: 

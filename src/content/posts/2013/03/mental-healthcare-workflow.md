@@ -1,6 +1,6 @@
 ---
 title: "Mental Healthcare Workflow"
-date: "2013-03-09"
+date: 2013-03-09
 categories: 
   - "sample-solution"
 tags: 

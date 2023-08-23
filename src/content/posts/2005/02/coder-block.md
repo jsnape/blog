@@ -1,6 +1,6 @@
 ---
 title: "Coder Block"
-date: "2005-02-05"
+date: 2005-02-05
 categories: 
   - "agile"
 tags: 

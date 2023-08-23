@@ -1,6 +1,6 @@
 ---
 title: "Thinking functionally about surrogate key mapping"
-date: "2013-07-02"
+date: 2013-07-02
 categories: 
   - "sample-solution"
 tags: 

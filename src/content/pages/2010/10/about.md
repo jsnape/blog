@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2010-10-10"
+date: 2010-10-10
 ---
 
 ![](https://jamessnape.files.wordpress.com/2010/10/jpeg.jpg?w=300)My name is James Snape and I'm an architect at Hitachi Consulting in London.

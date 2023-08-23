@@ -1,6 +1,6 @@
 ---
 title: "Using Integration Services to populate a Date Dimension"
-date: "2009-04-16"
+date: 2009-04-16
 categories: 
   - "data-warehousing"
 tags: 

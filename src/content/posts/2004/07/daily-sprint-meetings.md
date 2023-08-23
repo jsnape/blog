@@ -1,6 +1,6 @@
 ---
 title: "Daily Sprint Meetings"
-date: "2004-07-19"
+date: 2004-07-19
 categories: 
   - "agile"
 tags: 

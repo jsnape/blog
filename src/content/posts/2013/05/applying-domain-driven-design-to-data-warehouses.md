@@ -1,6 +1,6 @@
 ---
 title: "Applying Domain Driven Design to Data Warehouses"
-date: "2013-05-03"
+date: 2013-05-03
 categories: 
   - "business-intelligence"
 tags: 

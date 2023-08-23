@@ -1,6 +1,6 @@
 ---
 title: "Customers don't care about requirements"
-date: "2004-08-23"
+date: 2004-08-23
 categories: 
   - "agile"
 tags: 

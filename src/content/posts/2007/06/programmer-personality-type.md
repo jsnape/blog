@@ -1,6 +1,6 @@
 ---
 title: "Programmer Personality Type"
-date: "2007-06-06"
+date: 2007-06-06
 categories: 
   - "agile"
 tags: 

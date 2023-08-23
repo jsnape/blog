@@ -1,6 +1,6 @@
 ---
 title: "Mental health stakeholder analysis - power and interest"
-date: "2013-03-16"
+date: 2013-03-16
 categories: 
   - "sample-solution"
 tags: 

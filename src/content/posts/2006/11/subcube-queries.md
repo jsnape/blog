@@ -1,6 +1,6 @@
 ---
 title: "Subcube Queries"
-date: "2006-11-09"
+date: 2006-11-09
 categories: 
   - "data-warehousing"
 tags: 

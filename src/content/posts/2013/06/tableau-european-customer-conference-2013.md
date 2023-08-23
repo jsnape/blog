@@ -1,6 +1,6 @@
 ---
 title: "Tableau European Customer Conference 2013"
-date: "2013-06-13"
+date: 2013-06-13
 categories: 
   - "data-visualization"
 tags: 

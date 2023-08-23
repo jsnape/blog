@@ -1,6 +1,6 @@
 ---
 title: "Physical Data Warehouse Design"
-date: "2009-04-07"
+date: 2009-04-07
 categories: 
   - "data-warehousing"
 tags: 

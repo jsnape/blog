@@ -1,6 +1,6 @@
 ---
 title: "Third time perfect"
-date: "2005-02-14"
+date: 2005-02-14
 categories: 
   - "agile"
 tags: 

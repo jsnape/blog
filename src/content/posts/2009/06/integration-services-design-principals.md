@@ -1,6 +1,6 @@
 ---
 title: "Integration Services Design Principals"
-date: "2009-06-30"
+date: 2009-06-30
 categories: 
   - "data-warehousing"
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Mental Health Referrals - First Feature Acceptance Test"
-date: "2013-06-29"
+date: 2013-06-29
 categories: 
   - "sample-solution"
 tags: 

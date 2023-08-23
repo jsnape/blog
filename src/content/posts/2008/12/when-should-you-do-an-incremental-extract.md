@@ -1,6 +1,6 @@
 ---
 title: "When should you do an incremental extract?"
-date: "2008-12-22"
+date: 2008-12-22
 categories: 
   - "data-warehousing"
 tags: 

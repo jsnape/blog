@@ -1,6 +1,6 @@
 ---
 title: "Using an open source committer policy in the enterprise"
-date: "2014-02-11"
+date: 2014-02-11
 categories: 
   - "agile"
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Surgical Team Development"
-date: "2004-09-15"
+date: 2004-09-15
 categories: 
   - "agile"
 tags: 

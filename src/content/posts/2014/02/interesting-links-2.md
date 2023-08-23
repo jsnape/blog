@@ -1,6 +1,6 @@
 ---
 title: "Interesting Links #2"
-date: "2014-02-18"
+date: 2014-02-18
 categories: 
   - "reference"
 tags: 

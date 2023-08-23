@@ -1,6 +1,6 @@
 ---
 title: "Mental Health Project Automated Builds"
-date: "2013-06-07"
+date: 2013-06-07
 categories: 
   - "sample-solution"
 tags: 

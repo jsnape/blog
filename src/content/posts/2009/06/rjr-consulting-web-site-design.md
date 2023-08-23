@@ -1,6 +1,6 @@
 ---
 title: "RJR Consulting Web Site Design"
-date: "2009-06-05"
+date: 2009-06-05
 tags: 
   - "web-design"
 ---

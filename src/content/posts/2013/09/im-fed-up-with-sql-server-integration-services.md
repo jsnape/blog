@@ -1,6 +1,6 @@
 ---
 title: "I'm fed* up with SQL Server Integration Services"
-date: "2013-09-29"
+date: 2013-09-29
 categories: 
   - "business-intelligence"
 tags: 

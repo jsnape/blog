@@ -1,6 +1,6 @@
 ---
 title: "Risk Driven Architecture"
-date: "2013-04-27"
+date: 2013-04-27
 categories: 
   - "sample-solution"
 tags: 

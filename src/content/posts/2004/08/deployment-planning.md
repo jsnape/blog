@@ -1,6 +1,6 @@
 ---
 title: "Deployment Planning"
-date: "2004-08-02"
+date: 2004-08-02
 categories: 
   - "solution-architecture"
 tags: 

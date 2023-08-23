@@ -1,6 +1,6 @@
 ---
 title: "Dimensional Modelling"
-date: "2009-03-17"
+date: 2009-03-17
 categories: 
   - "data-warehousing"
 tags: 

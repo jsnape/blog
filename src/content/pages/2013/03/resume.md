@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: "2013-03-09"
+date: 2013-03-09
 ---
 
 [Downloadable version](https://1drv.ms/b/s!An3Fu1QmNm4jg8B8DK6qhqsgipWvXQ "Downloadable Resume")

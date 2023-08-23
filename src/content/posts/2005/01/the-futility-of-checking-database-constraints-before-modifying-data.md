@@ -1,6 +1,6 @@
 ---
 title: "The futility of checking database constraints before modifying data"
-date: "2005-01-16"
+date: 2005-01-16
 categories: 
   - "data-warehousing"
 tags: 

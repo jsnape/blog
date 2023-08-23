@@ -1,6 +1,6 @@
 ---
 title: "Classes of stakeholder"
-date: "2013-03-23"
+date: 2013-03-23
 categories: 
   - "solution-architecture"
 tags: 

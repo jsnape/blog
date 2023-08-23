@@ -1,6 +1,6 @@
 ---
 title: "Taking on dependencies with Deeply"
-date: "2014-04-16"
+date: 2014-04-16
 categories: 
   - "data-warehousing"
 tags: 

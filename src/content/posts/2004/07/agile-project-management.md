@@ -1,6 +1,6 @@
 ---
 title: "Agile Project Management"
-date: "2004-07-30"
+date: 2004-07-30
 categories: 
   - "agile"
 tags: 

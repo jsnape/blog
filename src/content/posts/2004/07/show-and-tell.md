@@ -1,6 +1,6 @@
 ---
 title: "Show and Tell"
-date: "2004-07-07"
+date: 2004-07-07
 categories: 
   - "agile"
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: "Acronyms in Dimensional Models"
-date: "2013-05-10"
+date: 2013-05-10
 categories: 
   - "business-intelligence"
 tags: 

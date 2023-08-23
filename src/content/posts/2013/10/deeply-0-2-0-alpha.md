@@ -1,6 +1,6 @@
 ---
 title: "Deeply 0.2.0 Alpha"
-date: "2013-10-11"
+date: 2013-10-11
 categories: 
   - "data-warehousing"
 tags: 
